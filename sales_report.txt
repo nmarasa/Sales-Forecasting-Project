@@ -1,0 +1,11 @@
+=== Sales Analysis Report ===
+
+Average Sales: 300.00
+Maximum Sales: 400
+Minimum Sales: 200
+
+=== Predicted Sales for Future Dates ===
+Day 1 Prediction: 420.00
+Day 2 Prediction: 460.00
+Day 3 Prediction: 500.00
+Day 4 Prediction: 540.00
